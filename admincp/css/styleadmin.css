@@ -1,0 +1,23 @@
+ul.admincp-list{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: flex;
+}
+
+.admincp-list li{
+    margin: 5px;
+}
+
+.title-admin{
+    text-align: center;
+    font-size: 40px;
+    color: blue;
+}
+
+.wrapper{
+    border: 1px solid #000;
+    height: auto;
+    width: 90%;
+    margin: 0 auto;
+}
